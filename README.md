@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <p>
 
-## Alguns numeros do Github
+## ⭐ Alguns numeros do Github
 
 <img src="https://github-readme-stats.vercel.app/api?username=Eulermoreira&show_icons=true&theme=dark"> 
 
