@@ -1,6 +1,6 @@
 # Olá! Eu sou Euler Moreira, 👋
 
-<p > Estou iniciando meus estudos em desenvolvimento front-end com o objetivo de construir uma carreira como programador. Atualmente, estou focado em aprender as tecnologias essenciais do front-end, como HTML, CSS e JavaScript. Planejo expandir meus conhecimentos para o back-end e me tornar um desenvolvedor full stack. Acompanhe meu progresso e projetos aqui no GitHub! 🚀 <p>
+<p > Estou iniciando meus estudos em desenvolvimento front-end com o objetivo de construir uma carreira como programador. Atualmente, estou focado em aprender as tecnologias essenciais do front-end, como HTML, CSS e JavaScript. Planejo expandir meus conhecimentos para o back-end e me tornar um desenvolvedor full stack. Acompanhe meu progresso e projetos aqui no GitHub! 🚀<p>
   
 <div> 
 
